@@ -3,7 +3,6 @@
 **Course:** MAD 4360, Activity 10  
 **Student:** Parsh Jadon  
 **Track:** Graduate — Task A + Task C only  
-**Format:** Solo; no partner or group contributions  
 **Due:** October 27, 2026, 8:30 PM course local time
 
 TrailMates is a hiking-themed signup demo with a forest-green Material theme. Required name/email/password validation and exact password confirmation precede a green success SnackBar and a personalized welcome screen. No account is created, authenticated, or stored. Task B is not implemented.
@@ -114,9 +113,3 @@ These are actual Flutter widget renders at 440 × 1280 with SDK fonts, not emula
 6. [Successful retry](evidence/06-tip-retry-success.png)
 7. [Password mismatch](evidence/07-password-mismatch.png)
 8. [Personalized success](evidence/08-personalized-success.png)
-
-## APK and submission
-
-Build artifact: `build/app/outputs/flutter-apk/app-release.apk`. The release variant uses Flutter's default debug signing key for this classroom installable demo, not production release signing. Build outputs and machine-specific SDK paths are excluded from Git. The delivery folder beside this project contains the APK and source ZIP.
-
-Repository: [parshjadon/MADinc10](https://github.com/parshjadon/MADinc10). Submission artifacts are the repository URL and the separately provided `TrailMates-release.apk`. This README includes the solo graduate track, Task A + Task C implementation, three reflection responses, testing results, and linked implementation evidence. Parsh Jadon has confirmed completing verification for submission.
