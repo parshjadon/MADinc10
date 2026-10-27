@@ -119,4 +119,4 @@ These are actual Flutter widget renders at 440 × 1280 with SDK fonts, not emula
 
 Build artifact: `build/app/outputs/flutter-apk/app-release.apk`. The release variant uses Flutter's default debug signing key for this classroom installable demo, not production release signing. Build outputs and machine-specific SDK paths are excluded from Git. The delivery folder beside this project contains the APK and source ZIP.
 
-No GitHub URL is invented: publication needs an accessible account or supplied repository. Push this project to the intended repository and submit its URL with the APK. Verify the student name, review the reflection and assistance policy, run the app on Android offline, capture any required personal evidence, and complete the individual explanation/change check before submitting.
+Repository: [parshjadon/MADinc10](https://github.com/parshjadon/MADinc10). Submit this repository URL with the separately provided `TrailMates-release.apk`. Verify the student name, review the reflection and assistance policy, run the app on Android offline, capture any required personal evidence, and complete the individual explanation/change check before submitting.
