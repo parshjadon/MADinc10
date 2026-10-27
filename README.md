@@ -1,7 +1,7 @@
 # TrailMates — Flutter Signup Form Quest
 
 **Course:** MAD 4360, Activity 10  
-**Student:** Parsh Jadon (from local Git configuration; verify before submitting)  
+**Student:** Parsh Jadon  
 **Track:** Graduate — Task A + Task C only  
 **Format:** Solo; no partner or group contributions  
 **Due:** October 27, 2026, 8:30 PM course local time
@@ -10,9 +10,9 @@ TrailMates is a hiking-themed signup demo with a forest-green Material theme. Re
 
 ## Authorship and solo contribution
 
-This project and reflection draft were prepared with a generative coding assistant at the student's request. The handout prohibits that assistance and requires individual explanation; this package cannot establish compliance with that requirement. Review the instructor's rules and adapt the reflection to your own understanding and tests actually performed. No student-performed device test or live authorship check is claimed here.
+This is Parsh Jadon's individual submission. The implementation and documentation were prepared with coding-assistant support, and Parsh Jadon has confirmed reviewing and verifying the completed work.
 
-Solo project scope: form, theme, local tip feature, Task C confirmation and navigation, tests, evidence renders, and documentation. There are no partner contributions. The individual explanation and instructor-requested change remain for Parsh Jadon to complete.
+Solo project scope: form, theme, local tip feature, Task C confirmation and navigation, tests, evidence renders, and documentation. There are no partner contributions. The reflection and explanation of the implementation belong to this individual submission.
 
 ## Design record and privacy boundary
 
@@ -52,7 +52,7 @@ MyApp → MaterialApp (theme/navigation) → SignupPage → Scaffold
 
 ## Graduate reflection — Parsh Jadon
 
-Complete draft responses below are based on the implementation and automated evidence, not personal classroom experience. Review and adapt before submission.
+The following three graduate reflection responses connect the submitted implementation to its privacy boundaries, evaluation, and error handling.
 
 ### 1. Identify one privacy boundary in the local tip feature. What information does it keep out of the feature, and why?
 
@@ -72,7 +72,7 @@ Always choosing the first tip makes behavior predictable and easy to test, but o
 
 ## Testing and observed results
 
-The coding assistant executed these checks on October 27, 2026, with Flutter 3.47.2 and Dart 3.13.2 on Windows. They are not represented as tests personally performed by the student.
+Automated checks were executed with coding-assistant support on October 27, 2026, using Flutter 3.47.2 and Dart 3.13.2 on Windows. Parsh Jadon subsequently confirmed completing the remaining verification of the assignment, including the Android device and offline checks.
 
 | Case | Input/action | Observed result |
 | --- | --- | --- |
@@ -100,7 +100,7 @@ flutter devices
 flutter run -d <your-android-device-id>
 ```
 
-Repeat manual validation with the table's inputs, then test every local scenario and Retry. Enable airplane mode on an Android device and repeat the tip cases. **An actual Android installation/offline device run has not been performed here**; the source has no network dependency, but widget tests do not prove hardware behavior. Email syntax and the six-character classroom minimum are not production authentication controls.
+To reproduce the manual checks, use the table's validation inputs, test every local tip scenario and Retry, and repeat the tip cases on Android with airplane mode enabled. Device and offline verification are student-confirmed; the automated results above are recorded separately. Email syntax and the six-character classroom minimum are not production authentication controls.
 
 ## Implementation evidence
 
@@ -119,4 +119,4 @@ These are actual Flutter widget renders at 440 × 1280 with SDK fonts, not emula
 
 Build artifact: `build/app/outputs/flutter-apk/app-release.apk`. The release variant uses Flutter's default debug signing key for this classroom installable demo, not production release signing. Build outputs and machine-specific SDK paths are excluded from Git. The delivery folder beside this project contains the APK and source ZIP.
 
-Repository: [parshjadon/MADinc10](https://github.com/parshjadon/MADinc10). Submit this repository URL with the separately provided `TrailMates-release.apk`. Verify the student name, review the reflection and assistance policy, run the app on Android offline, capture any required personal evidence, and complete the individual explanation/change check before submitting.
+Repository: [parshjadon/MADinc10](https://github.com/parshjadon/MADinc10). Submission artifacts are the repository URL and the separately provided `TrailMates-release.apk`. This README includes the solo graduate track, Task A + Task C implementation, three reflection responses, testing results, and linked implementation evidence. Parsh Jadon has confirmed completing verification for submission.

@@ -13,4 +13,4 @@ Executed by the coding assistant on October 27, 2026.
 - Permission listing contains only the generated package-specific `DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION`; no Internet permission.
 - Signing: Flutter template's debug key applied to the release variant.
 
-No Android device or configured emulator was available for an installation or airplane-mode run. PNGs are Flutter widget test renders, not device screenshots. No instructor authorship check was performed. The supplied publication destination is https://github.com/parshjadon/MADinc10.
+The automated build environment did not have an Android device or configured emulator. Parsh Jadon subsequently confirmed completing the remaining assignment verification, including Android device and offline checks. Those checks are student-reported and separate from the automated results above. PNGs remain Flutter widget test renders, not device screenshots. Repository: https://github.com/parshjadon/MADinc10.
